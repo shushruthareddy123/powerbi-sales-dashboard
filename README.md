@@ -3,7 +3,7 @@
 This repo is a **portfolio-ready template** for a Sales Dashboard in Power BI.
 
 
-- Sales_Dashboard.pbix` (your Power BI file)
+- Sales_Dashboard. (your Power BI file)
 
 
 
