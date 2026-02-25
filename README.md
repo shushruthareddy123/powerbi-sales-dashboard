@@ -26,7 +26,7 @@ Open and run the notebook:
 - Orders: 5,009
 - AOV: 458.61
 
-## Portfolio highlights (copy/paste)
+## Portfolio highlights 
 - Built a sales KPI dashboard using Python (Pandas, Matplotlib) on the Superstore dataset.
 - Analyzed monthly trends and performance by category and region.
 - Reported business KPIs: total sales, total profit, profit margin, orders, and average order value (AOV).
